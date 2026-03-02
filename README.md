@@ -1,5 +1,7 @@
 #  AIML Roadmap
 
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Python](https://img.shields.io/badge/Python-Learning-blue)
 A structured learning repository to master Python, Machine Learning, and AI fundamentals.
 
 ---
