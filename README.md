@@ -1,4 +1,4 @@
-# 🚀 AIML Roadmap
+#  AIML Roadmap
 
 A structured learning repository to master Python, Machine Learning, and AI fundamentals.
 
@@ -33,7 +33,7 @@ AIML_Roadmap/
 - OOP
 - Data Structures
 
-### 🤖 Machine Learning (Upcoming)
+### Machine Learning (Upcoming)
 - Linear Regression
 - Logistic Regression
 - Model Evaluation
@@ -41,7 +41,7 @@ AIML_Roadmap/
 
 ---
 
-## 📅 Progress Tracking
+## Progress Tracking
 
 Daily updates are maintained in:
 `Daily_Log.md`
