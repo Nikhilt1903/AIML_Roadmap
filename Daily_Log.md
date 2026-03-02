@@ -9,12 +9,12 @@ Today started with python basics again
 * Concept of Range
 
 ## Practiced basic coding:
-# ***** Strings and variables
+### ***** Strings and variables
 -Store your name, age, city in variables and print them.
 -Change age and print again.
 -Create 3 variables (a, b, c) and swap their values.
 
-# ***** Numbers and Input Practice
+### ***** Numbers and Input Practice
 -Ask user for two numbers → print:
 * sum
 * subtraction
@@ -25,13 +25,13 @@ Today started with python basics again
 -Ask total minutes → convert into hours and remaining minutes.
 -Ask monthly salary → calculate yearly salary.
 
-# ***** Conditional Statements
+### ***** Conditional Statements
 -Check if the number is even or odd
 -positive negative or zer0
 -Grade calculator (A/B/C/F)
 -Leap year checker
 
-# ***** Loops
+### ***** Loops
 -Print numbers 1–20
 -print even numbers from 1-50
 -Multiplication table of 7
