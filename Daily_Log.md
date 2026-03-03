@@ -39,3 +39,26 @@ Today started with python basics again
 - factorial using loop
 - Print prime numbers from 1–50
 - Reversal of number
+ --- 
+
+# March 3 2026
+
+Today worked completely on for and while loops 
+Also worked on Nested Loops
+* complete diffrentiation between while and for
+* wrote few programs both in while and for
+* understodd when to use while and for
+
+
+## Practiced basic coding for while and for(Loops_practice_Continuation)
+### Both for and While Loops
+- Printing 1-0 usin both for and while loop
+- sum of first n numbers using for and while
+- Multiplication table using for and while
+
+## Practiced basic coding for nested loop(nested_loops_practice.py)
+### Using nested loops
+- Building a star pattern
+- Building a star pattern(Reverse)
+- printing muliplication grid
+- Printing prime numbers again
