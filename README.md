@@ -20,10 +20,10 @@ A structured learning repository to master Python, Machine Learning, and AI fund
 
 AIML_Roadmap/
 │
-├── python_concepts/      # Core Python fundamentals
-├── coding_practice/      # Daily coding problems
-├── Daily_Log.md          # Daily learning progress
-└── README.md             # Project overview
+├python_concepts/      # Core Python fundamentals
+├oding_practice/      # Daily coding problems
+├Daily_Log.md          # Daily learning progress
+└README.md             # Project overview
 
 ---
 
