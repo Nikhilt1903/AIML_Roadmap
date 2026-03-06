@@ -1,5 +1,5 @@
 # March 2 2026
---- 
+
 
 Today started with python basics again
 * Understood the concepts of strings,integers,float
@@ -9,12 +9,12 @@ Today started with python basics again
 * Concept of Range
 
 ## Practiced basic coding:
-### ***** Strings and variables
+### ***** Strings and variables (Strings_and_number.py)
 - Store your name, age, city in variables and print them.
 - Change age and print again.
 - Create 3 variables (a, b, c) and swap their values.
 
-### ***** Numbers and Input Practice
+### ***** Numbers and Input Practice (Inputs_practice.py)
 - Ask user for two numbers → print:
 * sum
 * subtraction
@@ -25,13 +25,13 @@ Today started with python basics again
 - Ask total minutes → convert into hours and remaining minutes.
 - Ask monthly salary → calculate yearly salary.
 
-### ***** Conditional Statements
+### ***** Conditional Statements (Conditionsnal statements practice.py)
 - Check if the number is even or odd
 - positive negative or zer0
 - Grade calculator (A/B/C/F)
 - Leap year checker
 
-### ***** Loops
+### ***** Loops (Loops_practice.py)
 - Print numbers 1–20
 - print even numbers from 1-50
 - Multiplication table of 7
@@ -50,7 +50,7 @@ Also worked on Nested Loops
 * understodd when to use while and for
 
 
-## Practiced basic coding for while and for(Loops_practice_Continuation)
+## Practiced basic coding for while and for(Loops_practice_Continuation.py)
 ### Both for and While Loops
 - Printing 1-0 usin both for and while loop
 - sum of first n numbers using for and while
@@ -62,3 +62,32 @@ Also worked on Nested Loops
 - Building a star pattern(Reverse)
 - printing muliplication grid
 - Printing prime numbers again
+---
+
+# March 6 2026
+Today Understood and practiced the concepts of
+* Functions (Functions.py)
+* Parameters (Parameters_in_python.py)
+* Return (Return_Practice.py)
+* Return vs Print
+* Scope in pytgon (Variable_scopes.py)
+* Refactoring my old code
+
+## Practice Basic coding for functiions (Functions_practice.py)
+### (Only functions no parameters)
+- printing name using functions
+- Function for printing numbers from 1 to 10
+- Print Multiplication table of 5
+
+## Practicing functions by passing parameters (Parameters_Practice.py)
+- add
+- Multiply
+- Finding largest
+- Power
+
+## Practice function using both parameters and return (Return_Practice.py)
+- Square of number
+- Factorial of a number
+- prime_checker
+- Are_of_a_circle
+- sum_of_n_numbers
