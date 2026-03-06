@@ -19,10 +19,10 @@ A structured learning repository to master Python, Machine Learning, and AI fund
 ## Repository Structure
 
 AIML_Roadmap/
- * python_concepts      # Core Python fundamentals
- * coding_practice      # Daily coding problems
- * Daily_Log.md          # Daily learning progress
- * README.md             # Project overview
+ * /python_concepts      # Core Python fundamentals
+ * /coding_practice      # Daily coding problems
+ * /Daily_Log.md          # Daily learning progress
+ * /README.md             # Project overview
 
 ---
 
@@ -63,13 +63,12 @@ AIML_Roadmap/
  - Reverse list
  - Frequency counter
 
-* Mini project:
+Mini project:
  - Student Marks Analyzer
-
- * Input marks list
- * Find average
- * Highest/lowest
- * Grade distribution
+  * Input marks list
+  * Find average
+  * Highest/lowest
+  * Grade distribution
 --
 
 ### Week 3 Topics:
@@ -84,7 +83,7 @@ AIML_Roadmap/
  - Count characters in string
  - Palindrome checker
 
-* Mini project:
+Mini project:
  - Contact Manager (CLI)
 --
 
@@ -95,7 +94,7 @@ AIML_Roadmap/
  - Modules
  - Code organization
 
-- Mini project:
+Mini project:
  - Expense Tracker (CLI)
  - Features:
   * Add expense
@@ -103,7 +102,7 @@ AIML_Roadmap/
   * Read history
   * Show summary
 
-- By end of Phase 1:
+By end of Phase 1:
 - should be able to write 150–200 lines comfortably.
 --- 
 ## Phase 2 — Data Handling (Weeks 5–8)
@@ -118,16 +117,16 @@ AIML_Roadmap/
  - Groupby
  - Basic visualization
 
-- Tools:
+Tools:
  * Pandas
  * Matplotlib
  * Seaborn
 
-- Projects:
+Projects:
  - Stock Data Analyzer
  - Sales Data Dashboard
 
-- Skills gained:
+Skills gained:
  * EDA (exploratory data analysis)
  * Data cleaning
  * Data visualization
@@ -136,7 +135,7 @@ AIML_Roadmap/
 ## Phase 3 — SQL + Databases (Weeks 9–10)
 ## Goal: Become strong in SQL.
 
-- Topics:
+Topics:
 
  - SELECT
  - WHERE
@@ -145,16 +144,16 @@ AIML_Roadmap/
  - Subqueries
  - Window functions
 
-- Practice:
+Practice:
  - 100 SQL problems
 
-- Mini project:
+Mini project:
  - E-commerce Database Analysis
 --- 
 
 ## Phase 4 — Statistics + Machine Learning (Weeks 11–16)
 
-- Topics:
+Topics:
 
  - Probability basics
  - Mean/variance
@@ -165,17 +164,17 @@ AIML_Roadmap/
  - Random forest
  - Model evaluation
 
-- Tools:
+Tools:
  - scikit-learn
 
-- Project:
+Project:
  * House Price Prediction Model
  * Deploy using Streamlit.
 ---
 
 ## Phase 5 — Deployment + Engineering (Weeks 17–20)
 
-- Topics:
+Topics:
 
  - Git workflow
  - APIs
@@ -183,40 +182,40 @@ AIML_Roadmap/
  - Docker basics
  - Cloud basics (AWS/GCP)
 
-- Project:
+Project:
  - ML Model as API
 
-- Example:
+Example:
  - Predict house prices via API.
 --- 
 
 ## Phase 6 — AI Integration (Weeks 21–22)
 
--Topics:
+Topics:
 
  - LLM APIs
  - Prompt engineering
  - AI automation
 
-- Projects:
+Projects:
  * Resume analyzer
  * Job description skill extractor
  * AI data summarizer
-- This gives you a modern AI edge.
+This gives you a modern AI edge.
 ---
 
 ## Phase 7 — Pre-MS Preparation (Final Weeks)
 
-- Prepare:
+Prepare:
  - Resume (US/Germany format)
  - GitHub portfolio
  - LinkedIn
  - Internship strategy
 
-- Target:
+Target:
  - 3–4 strong projects
 
-- Example portfolio:
+Example portfolio:
 
  * Data analysis project
  * Machine learning project
