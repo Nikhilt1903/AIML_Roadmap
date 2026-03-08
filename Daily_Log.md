@@ -91,3 +91,33 @@ Today Understood and practiced the concepts of
 - prime_checker
 - Are_of_a_circle
 - sum_of_n_numbers
+---
+
+## March 8 2026
+## Today started with list and understodd the concepts of list
+- Understanding lists
+- List Operations (append,extend,insert,remove,pop,sum,min,max,sort,reverse)
+- Looping throug lists
+- Problem solving
+
+## Practiced basic coding for lists and list_operations
+- Print entire list
+- Print first element
+- Print last element
+- Print second element
+wrote a program to ask the user input and
+ - Add element
+ - Remove element
+ - Append element
+ - Length of list
+
+## Practiced basic coding for looping through lists
+- Print all elements
+- Print only even numbers
+- Print square of each element
+
+## Problem Solving
+- Find largest number in a list
+- Reverse a list
+- Remove duplicates
+- Count frequency of each number
