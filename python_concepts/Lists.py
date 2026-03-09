@@ -39,6 +39,8 @@ print(courses[2:]) #gives the range from specified start to the end
 
 num = [5,3,6,2,3]
 
+print(courses)
+
 courses.append("Data_Sci") #adds the element to the end of the list
 courses.insert(0,"Intro") #add elemnt to the desired location
 

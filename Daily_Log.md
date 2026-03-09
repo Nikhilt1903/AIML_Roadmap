@@ -94,12 +94,13 @@ Today Understood and practiced the concepts of
 ---
 
 ## March 8 2026
-## Today started with list and understodd the concepts of list
+## Today started with list and understodd the concepts of list (Lists.py)
 - Understanding lists
 - List Operations (append,extend,insert,remove,pop,sum,min,max,sort,reverse)
 - Looping throug lists
 - Problem solving
 
+## Lists_practice.py
 ## Practiced basic coding for lists and list_operations
 - Print entire list
 - Print first element
