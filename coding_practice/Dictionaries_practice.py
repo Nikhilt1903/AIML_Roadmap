@@ -11,7 +11,7 @@ print(my_det.get("city","not found in ther dict"))
 print("Welcome to the student dictionary")
 
 students={}
-
+#working fine
 USN=input("Enter the usn of the student")
 name=input("Enter the name of the student")
 age=int(input("enter the age of the student"))

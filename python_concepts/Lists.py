@@ -12,7 +12,7 @@
 courses=["Math","Science","History","Geography","CompSci"]
 
 print(courses)
-
+#working fine
 print(courses.index("Science")) #gives the index of the item in the list
 print("Science" in courses) #gives true if the item is present else returns false
 print(len(courses)) #give the number of itesm in the list

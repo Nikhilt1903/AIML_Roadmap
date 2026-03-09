@@ -50,3 +50,4 @@ print(student.keys()) #prints the keys in student dictionary
 print(student.values()) #prints values in the student dictionary
 
 print(student.items()) #prints the key value pairs in the student dictionarry
+#done for the day
