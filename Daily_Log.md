@@ -93,7 +93,7 @@ Today Understood and practiced the concepts of
 - sum_of_n_numbers
 ---
 
-## March 8 2026
+# March 8 2026
 ## Today started with list and understodd the concepts of list (Lists.py)
 - Understanding lists
 - List Operations (append,extend,insert,remove,pop,sum,min,max,sort,reverse)
@@ -122,3 +122,29 @@ wrote a program to ask the user input and
 - Reverse a list
 - Remove duplicates
 - Count frequency of each number
+---
+# March 9 2026
+## Today practiced dictonaries an dthe concepts of dictonaries(Dictonaries.py)
+- Understanding Dictonaries
+- Dictonaries Operations 
+- Looping throug Dictonaries
+- Problem solving
+
+## Practiced basic coding on dictonaries(Dictonaries_practice.py)
+- creating a dictiary with my details
+- creating a simple student CRUD operations using dictionaries
+- counting frequency of words using dict
+- students marks using dict
+---
+# March 10 2026
+## Today practiced string manipulation and string indexing
+
+## Practiced (string_slicing_indexing.py)
+- string indexing
+- string methods
+- looping through strings
+- counting vowels
+- counting consonants
+- reversing strings
+- palindrome checking
+- word counting
