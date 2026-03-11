@@ -148,3 +148,25 @@ wrote a program to ask the user input and
 - reversing strings
 - palindrome checking
 - word counting
+---
+# March 11 2026
+## Today practice with
+- Tuples(tuples.py)
+- sets(sets.py)
+- file handling in python(file_hnadling.py)
+
+## practiced basic coding for the same
+## Tuples and sets (tuples_and_set_practice.py)
+- adding a tuple
+- looping through tuple
+- adding a set
+- appending a set
+- deleting a set
+- intersection,union,difference
+- subset,superset
+
+## File handlong practice (fILE_HNADLING_PRACTICE.PY)
+- Writing a file
+- reading a file
+- appending a file
+- basic expense tracker
