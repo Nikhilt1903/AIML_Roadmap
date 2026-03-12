@@ -170,3 +170,10 @@ wrote a program to ask the user input and
 - reading a file
 - appending a file
 - basic expense tracker
+---
+# March 12 2026
+##Today workded on
+- exception handling (exception_handling.py, exception_handling_pracice.py)
+- modules (modules_in_python_1.py, modules_in_python.py)
+- importing and working with modules
+- file structures
