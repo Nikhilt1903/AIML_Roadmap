@@ -172,8 +172,17 @@ wrote a program to ask the user input and
 - basic expense tracker
 ---
 # March 12 2026
-##Today workded on
+## Today workded on
 - exception handling (exception_handling.py, exception_handling_pracice.py)
 - modules (modules_in_python_1.py, modules_in_python.py)
 - importing and working with modules
 - file structures
+---
+# March 13 2026
+## Today worked on 
+### (json_practice.py,json.py)
+- What is json
+- Reading from a json file
+- writing into a json file
+- json operatons
+- create a simple student database that takes student details allows to update delete the details
