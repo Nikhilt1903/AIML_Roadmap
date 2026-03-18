@@ -190,3 +190,28 @@ wrote a program to ask the user input and
 # Nothing done on March 14,15,16,17
 ## Broke my consistency 
 ### starting again from tomorrow
+---
+# March 18 2026
+## today leart and practiced the concepts of list comphrehensions
+
+## Learnt (List_comphrension.py)
+- how to write a list comphrehension
+- when to and not to use list comprehensions
+- usig comprehensiins with conditions
+- with nested loops
+- with dictonaries
+- with enumerate
+- with sets
+- with functions 
+- with string operations
+
+## Practiced (List_comphrension_practice.py)
+- extract only vowels
+- flatten nested list
+- replacing even numbers with even
+- numbers divisible by 3 and 5 from 1-100
+- created dictionary using comhresiom for cubes
+- length of each word in a list
+- reverse every tring ina lsit
+- multiflication table for 5
+- swap case
