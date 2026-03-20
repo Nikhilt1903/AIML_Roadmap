@@ -215,3 +215,18 @@ wrote a program to ask the user input and
 - reverse every tring ina lsit
 - multiflication table for 5
 - swap case
+---
+# March 20 2026
+## Today tearnt and worked on lamda,map and filter fumctions
+
+## learnt using using(lambda_map_filter.py)
+- lambda
+- map
+- filter 
+
+## worked on (lambda_map_filter_practice.py)
+- cube of all numbers using map
+- filter numbers > 10
+- merge two lists usimg map
+- remove empty strings using filter
+- sorting dictionary values using lambd
