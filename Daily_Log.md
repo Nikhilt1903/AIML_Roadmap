@@ -230,3 +230,12 @@ wrote a program to ask the user input and
 - merge two lists usimg map
 - remove empty strings using filter
 - sorting dictionary values using lambd
+---
+# March 22 2026
+## Today worked on genrators and iterators
+
+## learnt using and why to use(iterators.py,generators.py)
+- iterators 
+- generators
+
+## practiced generators and iterators
