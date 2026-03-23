@@ -239,3 +239,16 @@ wrote a program to ask the user input and
 - generators
 
 ## practiced generators and iterators
+---
+# March 23 2026
+## Today learnt on working with csv files
+
+## learnt how to read and write into a csv file(working_with_csv_files.py)
+- .reader()
+- .dictreader()
+- .writer()
+- .dictwriter()
+- .writeheader()
+
+## practiced basic writing and reading from csv files (working_with_csv_files_practice.py)
+- used student data for practice
