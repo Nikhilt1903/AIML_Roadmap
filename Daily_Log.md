@@ -252,3 +252,6 @@ wrote a program to ask the user input and
 
 ## practiced basic writing and reading from csv files (working_with_csv_files_practice.py)
 - used student data for practice
+---
+# No practice on 24,25,26 march as i was struck with other works will start again from 27th march
+## will start from tomorrow
